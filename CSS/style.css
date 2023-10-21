@@ -31,12 +31,12 @@
     width: 120px;
     margin: 15px;
     padding: 15px;
-    color: pink;
+    color: rgb(255, 192, 203);
     font-size: 20px;
 }
 .nav-link ul li a{
     text-decoration: none;
-    color: #fff;
+    color: #212020;
 }
 
 .active, .nav-link ul li :hover{
@@ -65,7 +65,7 @@
     text-decoration: underline;
     font-weight: bold;
     display: block;
-    color: #d9a6be;
+    color: #212020;
     font-size: 20px;
 }
 @media (prefers-reduced-motion: reduce) {
