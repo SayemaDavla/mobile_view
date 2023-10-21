@@ -37,6 +37,7 @@
 .nav-link ul li a{
     text-decoration: none;
     color: #463826;
+    font-weight: 500;
 }
 
 .active, .nav-link ul li :hover{
