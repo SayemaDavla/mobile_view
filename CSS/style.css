@@ -19,7 +19,7 @@
     height: 50px; 
 }
 .nav-link{
-    background: rgb(165, 125, 202);
+    background: rgb(201, 185, 216);
     text-align: center;
 }
 .nav-link ul{
@@ -31,7 +31,7 @@
     width: 120px;
     margin: 15px;
     padding: 15px;
-    color: rgb(255, 192, 203);
+    color: rgb(243, 221, 225);
     font-size: 20px;
 }
 .nav-link ul li a{
@@ -41,7 +41,7 @@
 }
 
 .active, .nav-link ul li :hover{
-    background: #F3BBFF;
+    background: #eee9ee;
     border-radius: 3px;
 
 }
@@ -64,7 +64,7 @@
 }
 .nav a{
     text-decoration: underline;
-    font-weight: bold;
+    font-weight: 400;
     display: block;
     color: #463826;
     font-size: 20px;
