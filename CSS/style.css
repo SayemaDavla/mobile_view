@@ -4,12 +4,12 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-.Skip {
+.skip {
     position: absolute;
     left: -9999px; 
   }
   
-  .Skip:focus {
+  .skip:focus {
     position: static; 
   }
 .heading {
